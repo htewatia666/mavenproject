@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Naveen tewatia</h2>
+<h2>Naveen Tewatia</h2>
 </body>
 </html>
